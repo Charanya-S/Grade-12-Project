@@ -1,0 +1,299 @@
+insert into Questions values(1,'Class 1','Math','Add 4+5',1);
+
+insert into Questions values(2,'Class 1','Math','Subtract 9-3',1);
+
+insert into Questions values(3,'Class 1','Math','If you have 4 apples and you get 2 more, how many apples do you have?',1);
+
+insert into Questions values(4,'Class 1','Math','If you have 7 chocolates and you eat 5, how many chocolates do you have?',1);
+
+insert into Questions values(5,'Class 1','Math','How do you write the number twelve using digits?',1);
+
+insert into Questions values(6,'Class 1','Math','Is the number of five stars ***** even or odd?',1);
+
+insert into Questions values(7,'Class 1','Math','Find the missing number in the sequence: 5, __, 15, 20, 25.',1);
+
+insert into Questions values(8,'Class 1','Math','18 equals how many tens plus ones?',1);
+
+insert into Questions values(9,'Class 1','Math','I am between 1 and 5, more than 2, less than 4. What number am I?',1);
+
+insert into Questions values(10,'Class 1','Math','Which sign makes the statement 62 __ 71 true?',1);
+
+insert into Questions values(11,'Class 1','Math','I am not even greater than 33, smaller than 37. What number am I?',1);
+
+insert into Questions values(12,'Class 1','Math','Krish has 8 gold coins and 3 silver coins. How many total coins?',1);
+
+insert into Questions values(13,'Class 1','Math','What is the double of 9?',1);
+
+insert into Questions values(14,'Class 1','Math','Which has more faces, a cylinder or a cone?',1);
+
+insert into Questions values(15,'Class 1','Math','What is 5 x 9?',1);
+
+insert into Questions values(16,'Class 1','Science','What is the color of the sky on a clear day?',1);
+
+insert into Questions values(17,'Class 1','Science','What do plants need to grow?',1);
+
+insert into Questions values(18,'Class 1','Science','Which animal gives us milk?',1);
+
+insert into Questions values(19,'Class 1','Science','What do we breathe in to live?',1);
+
+insert into Questions values(20,'Class 1','Science','What is the biggest planet in our solar system?',1);
+
+insert into Questions values(21,'Class 1','Science','How many eyes do we have?',1);
+
+insert into Questions values(22,'Class 1','Science','What do we use to hear?',1);
+
+insert into Questions values(23,'Class 1','Science','Which body part helps us smell?',1);
+
+insert into Questions values(24,'Class 1','Science','What helps us taste food?',1);
+
+insert into Questions values(25,'Class 1','Science','How many fingers are there on one hand?',1);
+
+insert into Questions values(26,'Class 1','Science','What is the green part of a plant called?',1);
+
+insert into Questions values(27,'Class 1','Science','Which animal is called the king of the jungle?',1);
+
+insert into Questions values(28,'Class 1','Science','What do bees make?',1);
+
+insert into Questions values(29,'Class 1','Science','What do we carry when it rains?',1);
+
+insert into Questions values(30,'Class 1','Science','What falls from the sky during winter in cold places?',1);
+
+insert into Questions values(31,'Class 1','Math','What is the expanded form of 45?',2);
+
+insert into Questions values(32,'Class 1','Math','Which number comes after 399?',2);
+
+insert into Questions values(33,'Class 1','Math','What is the place value of 6 in the number 634?',2);
+
+insert into Questions values(34,'Class 1','Math','Arrange these numbers in ascending order: 87, 56, 45, 98.',2);
+
+insert into Questions values(35,'Class 1','Math','How many sides does a triangle have?',2);
+
+insert into Questions values(36,'Class 1','Math','What is 9 x 2?',2);
+
+insert into Questions values(37,'Class 1','Math','A book costs Rs 50. If you buy 2 books, how much will you pay?',2);
+
+insert into Questions values(38,'Class 1','Math','What is the sum of 45 + 10?',2);
+
+insert into Questions values(39,'Class 1','Math','Which object has no edges?',2);
+
+insert into Questions values(40,'Class 1','Math','Subtract 12 from 35.',2);
+
+insert into Questions values(41,'Class 1','Math','How many minutes are there in an hour?',2);
+
+insert into Questions values(42,'Class 1','Math','What is 100 - 50?',2);
+
+insert into Questions values(43,'Class 1','Math','What is the value of 7 in the number 78?',2);
+
+insert into Questions values(44,'Class 1','Math','If a box contains 8 apples, how many apples are there in 5 such boxes?',2);
+
+insert into Questions values(45,'Class 1','Math','What is the shape of an object with all four sides equal?',2);
+
+insert into Questions values(46,'Class 1','Science','What do bones who fit together make?',2);
+
+insert into Questions values(47,'Class 1','Science','Why does your body digest food?',2);
+
+insert into Questions values(48,'Class 1','Science','What moves your bones?',2);
+
+insert into Questions values(49,'Class 1','Science','What do lungs do?',2);
+
+insert into Questions values(50,'Class 1','Science','Blood without oxygen is blue, blood with oxygen is?',2);
+
+insert into Questions values(51,'Class 1','Science','What does the saliva in your mouth do for digestion?',2);
+
+insert into Questions values(52,'Class 1','Science',' When water is poured into a different container, what changes?',2);
+
+insert into Questions values(53,'Class 1','Science','Which phase of matter does not like to change its shape?',2);
+
+insert into Questions values(54,'Class 1','Science','An example of a liquid is?',2);
+
+insert into Questions values(55,'Class 1','Science','What does salt do to ice?',2);
+
+insert into Questions values(56,'Class 1','Science','An example of a solid is?',2);
+
+insert into Questions values(57,'Class 1','Science','If you put a solid into a new container it will?',2);
+
+insert into Questions values(58,'Class 1','Science',' If we boil water what will happen to the amount of water we have?',2);
+
+insert into Questions values(59,'Class 1','Science','Define matter.',2);
+
+insert into Questions values(60,'Class 1','Science','What is an animal that eats other animals called?',2);
+
+insert into Questions values(61,'Class 1','Math','What is 20 + 30?',3);
+
+insert into Questions values(62,'Class 1','Math',' What is 9 x 3?',3);
+
+insert into Questions values(63,'Class 1','Math','What is the place value of 5 in the number 2538?',3);
+
+insert into Questions values(64,'Class 1','Math','What is the smallest 4-digit number?',3);
+
+insert into Questions values(65,'Class 1','Math','If a triangle has three sides, how many corners does it have?',3);
+
+insert into Questions values(66,'Class 1','Math','What is the next number in the sequence: 2, 4, 6, 8, ?',3);
+
+insert into Questions values(67,'Class 1','Math','A clock shows 6:00 PM. What time will it be 2 hours later?',3);
+
+insert into Questions values(68,'Class 1','Math','What is half of 50?',3);
+
+insert into Questions values(69,'Class 1','Math',' If 1 metre = 100 cm, how many centimetres are there in 3 metres?',3);
+
+insert into Questions values(70,'Class 1','Math','How many wheels do 8 bicycles have if each has 2 wheels?',3);
+
+insert into Questions values(71,'Class 1','Math','If 100 + 200 = 300, what is 300 - 150?',3);
+
+insert into Questions values(72,'Class 1','Math','Which is the expanded form of the number 5867?',3);
+
+insert into Questions values(73,'Class 1','Math','If 4 students equally share 20 candies, how many candies does each get?',3);
+
+insert into Questions values(74,'Class 1','Math','What is the product of 12 x 5?',3);
+
+insert into Questions values(75,'Class 1','Math','If 8 tens are subtracted from 12 tens, what is the result?',3);
+
+insert into Questions values(76,'Class 1','Science','Define Herbs and shrubs?',3);
+
+insert into Questions values(77,'Class 1','Science','Define Creepers and climbers.',3);
+
+insert into Questions values(78,'Class 1','Science','Give some examples of shrubs.',3);
+
+insert into Questions values(79,'Class 1','Science','Give some examples of climbers.',3);
+
+insert into Questions values(80,'Class 1','Science','Give some examples of herbs.',3);
+
+insert into Questions values(81,'Class 1','Science','Give some examples of Creepers.',3);
+
+insert into Questions values(82,'Class 1','Science','Give an example of plants whose roots are eaten.',3);
+
+insert into Questions values(83,'Class 1','Science','Give an example of a plant whose stem is eaten.',3);
+
+insert into Questions values(84,'Class 1','Science','Give an example of plants whose flowers are eaten.',3);
+
+insert into Questions values(85,'Class 1','Science','Write the name of different parts of the plant.',3);
+
+insert into Questions values(86,'Class 1','Science','Write the name of the edible root.',3);
+
+insert into Questions values(87,'Class 1','Science','What is the function of the root?',3);
+
+insert into Questions values(88,'Class 1','Science','What are annual plants?',3);
+
+insert into Questions values(89,'Class 1','Science','What are biennials plants?',3);
+
+insert into Questions values(90,'Class 1','Science','What are perennials plants?',3);
+
+insert into Questions values(91,'Class 1','Math','What is the smallest whole number?',4);
+
+insert into Questions values(92,'Class 1','Math','What is 62 x 10?',4);
+
+insert into Questions values(93,'Class 1','Math','How many meters are there in 1 kilometer?',4);
+
+insert into Questions values(94,'Class 1','Math','What is 1 hour equal to in minutes?',4);
+
+insert into Questions values(95,'Class 1','Math','What is 200 x 0?',4);
+
+insert into Questions values(96,'Class 1','Math','How many days are there in 1 week?',4);
+
+insert into Questions values(97,'Class 1','Math','Convert Rs 1 into paise.',4);
+
+insert into Questions values(98,'Class 1','Math','How many seconds are there in 5 minutes?',4);
+
+insert into Questions values(99,'Class 1','Math','Convert Rs 124.57 into paise.',4);
+
+insert into Questions values(100,'Class 1','Math','How many months are there in 3 years?',4);
+
+insert into Questions values(101,'Class 1','Math','Convert 4 liters 221 milliliters into milliliters.',4);
+
+insert into Questions values(102,'Class 1','Math','What is 1/2 equal to?',4);
+
+insert into Questions values(103,'Class 1','Math','Arrange in ascending order: 45218, 12345, 89652, 58746, 25847.',4);
+
+insert into Questions values(104,'Class 1','Math','What is the value of 202 - 101 + 9?',4);
+
+insert into Questions values(105,'Class 1','Math','Check whether the year 2018 is a leap year.',4);
+
+insert into Questions values(106,'Class 1','Science','Which of these (a)Dog b)Tree c)Rock d)Cat) is a non-living thing?',4);
+
+insert into Questions values(107,'Class 1','Science','What helps plants make their food?',4);
+
+insert into Questions values(108,'Class 1','Science','Which organ helps us breathe?',4);
+
+insert into Questions values(109,'Class 1','Science','Name a living thing.',4);
+
+insert into Questions values(110,'Class 1','Science','What part of the plant absorbs water from the soil?',4);
+
+insert into Questions values(111,'Class 1','Science','What is the main function of the heart?',4);
+
+insert into Questions values(112,'Class 1','Science','Which part of the plant makes seeds?',4);
+
+insert into Questions values(113,'Class 1','Science','What do we call the process of breaking down food in our body?',4);
+
+insert into Questions values(114,'Class 1','Science','Which sense organ helps us smell?',4);
+
+insert into Questions values(115,'Class 1','Science','Which food group builds our muscles?',4);
+
+insert into Questions values(116,'Class 1','Science','How many senses do humans have?',4);
+
+insert into Questions values(117,'Class 1','Science','What is the function of the skeleton in our body?',4);
+
+insert into Questions values(118,'Class 1','Science','Which organ helps us think?',4);
+
+insert into Questions values(119,'Class 1','Science','What is the main source of energy for Earth?',4);
+
+insert into Questions values(120,'Class 1','Science','What carries messages in our body?',4);
+
+insert into Questions values(121,'Class 1','Math','Write the number name for 37648715.',5);
+
+insert into Questions values(122,'Class 1','Math','What is the Roman numeral for 69?',5);
+
+insert into Questions values(123,'Class 1','Math','Find the greatest 9-digit number using the digits 0, 1, 2, 3, 4, 5, 6, 7, 8.',5);
+
+insert into Questions values(124,'Class 1','Math','Round off 742 to the nearest hundred.',5);
+
+insert into Questions values(125,'Class 1','Math','What is the sum of the place values of the digit 1 in 81,65,51,563?',5);
+
+insert into Questions values(126,'Class 1','Math','What is the LCM of 12, 15, and 20?',5);
+
+insert into Questions values(127,'Class 1','Math','If a car takes 11 hours to cover 770 km, how much time will it take to cover 350 km?',5);
+
+insert into Questions values(128,'Class 1','Math','What is the percentage error if a number is multiplied by 3/5 instead of 5/3?',5);
+
+insert into Questions values(129,'Class 1','Math','Simplify: -5 + (-8) + 9 - 1 + 6.',5);
+
+insert into Questions values(130,'Class 1','Math','What is the cost of 15 apples if 2 apples cost Rs 1.20?',5);
+
+insert into Questions values(131,'Class 1','Math','What is the duration of a chess game that starts at 10:20 AM and ends at 12:30 PM?',5);
+
+insert into Questions values(132,'Class 1','Math','What is the place value of 5 in 5,28,76,342?',5);
+
+insert into Questions values(133,'Class 1','Math','Convert 145 km into meters.',5);
+
+insert into Questions values(134,'Class 1','Math','Simplify: 36 / 2 + 8 x 3 - 22.',5);
+
+insert into Questions values(135,'Class 1','Math','Convert 4.325 kg into grams.',5);
+
+insert into Questions values(136,'Class 1','Science','What are some effects of force?',5);
+
+insert into Questions values(137,'Class 1','Science','How many types of forces are there?',5);
+
+insert into Questions values(138,'Class 1','Science','What is work?',5);
+
+insert into Questions values(139,'Class 1','Science','Name any two simple machines.',5);
+
+insert into Questions values(140,'Class 1','Science','What is friction?',5);
+
+insert into Questions values(141,'Class 1','Science','Name the matter which is found in all the three states?',5);
+
+insert into Questions values(142,'Class 1','Science','Define matter?',5);
+
+insert into Questions values(143,'Class 1','Science','What are the states of matter?',5);
+
+insert into Questions values(144,'Class 1','Science','How many states of matter are there?',5);
+
+insert into Questions values(145,'Class 1','Science','Give the 3 states of matter examples.',5);
+
+insert into Questions values(146,'Class 1','Science','Animals which gnaw their food are called ..........',5);
+
+insert into Questions values(147,'Class 1','Science','Insects breathe through small holes called .............',5);
+
+insert into Questions values(148,'Class 1','Science','Which of these organs helps a dolphin breathe?',5);
+
+insert into Questions values(149,'Class 1','Science','Porcupines have which one to protect themselves from their enemies?',5);
+
+insert into Questions values(150,'Class 1','Science','What part of a fish body helps the fish change directions?',5);

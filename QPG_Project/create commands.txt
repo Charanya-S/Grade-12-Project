@@ -1,0 +1,5 @@
+create database QPG;
+
+use database QPG;
+
+create table Questions(id int auto_increment primary key, Class varchar(10) not null, Subject varchar(30) not null, Question varchar(250) not null, Marks int not null);
